@@ -15,8 +15,9 @@
     <link rel="stylesheet" href="./styles/style.css" />
     <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
   </head>
-  
+  <body>
     <center>
     <h1>My Highest score was a 47.</h1>
     <br>
-    
+</body>
+</html>
